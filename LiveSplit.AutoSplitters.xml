@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
 	<AutoSplitter>
+        <Games>
+            <Game>Need for Speed: Carbon</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/psantosm/NFSC-Autosplitter/main/Livesplit.NFSC.asl?token=APSCRPML2CR6J7W7WU4MNVDAANYIA</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Mr.Mary and Autosplitter by TDOG20</Description>
+    </AutoSplitter>
+	<AutoSplitter>
      	<Games>
             <Game>Cyberpunk 2077</Game>
      	</Games>
